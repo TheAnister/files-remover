@@ -18,3 +18,6 @@ Check the folder to make sure everything in it has deleted.
 Tools Used:
 BAT - To develop the program
 IEXPRESS - To create a setup wizard and to convert the BAT file to an executable
+
+# Installation
+You can download it at https://github.com/TheAnister/files-remover/releases/tag/filesremover
